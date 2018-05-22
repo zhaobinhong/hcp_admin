@@ -4,7 +4,7 @@ H_admin是一个免费的后台管理模版,该模版基于bootstrap与jQuery制
 
 # Demo
 ![名称](./img/1.png)
-> [H_admin演示地址]()
+> [H_admin演示地址](https://zhaobinhong.github.io/hcp_admin/login.html)
 
 
 ## beta _测试版_
